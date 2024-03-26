@@ -36,10 +36,10 @@ These are a mix of front end and back end, pick and choose based on personal tas
 - [SQLbolt](https://sqlbolt.com/)
 
 ## Online Tutorials - Assorted
-- [Codecademy](https://www.codecademy.com/)
-- [Freecodecamp](https://www.freecodecamp.org/learn)
-- [HTML Dog](https://www.htmldog.com/)
-- [Odin Project](https://www.theodinproject.com/)
+- [Codecademy](https://www.codecademy.com/) - Step by step interactive programming lessons.
+- [Freecodecamp](https://www.freecodecamp.org/learn) - Step by step interactive programming lessons.
+- [HTML Dog](https://www.htmldog.com/) - HTML, CSS, and JavaScript tutorials.
+- [Odin Project](https://www.theodinproject.com/) - Self directed learning material.
 
 ## Online Free Courses - YouTube
 - [PHP](https://www.youtube.com/watch?v=m52ljs78S24&list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih)
