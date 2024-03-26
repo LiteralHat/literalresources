@@ -1,6 +1,6 @@
 # WEB DEVELOPMENT RESOURCES
 This is simply a repo dedicated to dumping learning material that I've used / plan to use / found on the internet and seem okay.
-I will add these to my website eventually, but this list will be updated as I learn until completion. 
+I will add these to my website eventually, but this list will be updated as I find more stuff that seems useful.
 These are a mix of front end and back end, pick and choose based on personal taste as you wish.
 
 ## Templates
