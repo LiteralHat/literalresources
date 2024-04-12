@@ -1,24 +1,22 @@
 # WEB DEVELOPMENT RESOURCES
-This is simply a repo dedicated to dumping learning material that I've used / plan to use / found on the internet and seem okay.
-I will add these to my website eventually, but this list will be updated as I find more stuff that seems useful.
-These are a mix of front end and back end, pick and choose based on personal taste as you wish.
+just stuff ive used
 
 ## Templates
-- [HTML5 boilerplate](https://github.com/h5bp/html5-boilerplate) - A very no-bs professional free to use HTML5 boilerplate template.
+- [HTML5 boilerplate](https://github.com/h5bp/html5-boilerplate)
 
 ## Versioning Control 
-- [Git Basics](https://rogerdudler.github.io/git-guide/) - Roger Dudler's basic git guide
+- [Git Basics](https://rogerdudler.github.io/git-guide/) 
 
 ## Editors
-- [HTML5-editor.net]( https://html5-editor.net/) - Lazy web text composer. Can be broken sometimes but good for quick and dirty things. 
+- [HTML5-editor.net]( https://html5-editor.net/) 
     
 ## Cheatsheets 
-- [HTMLCheatSheet](https://htmlcheatsheet.com/) - Sensory overload HTML Cheatsheet
-- [CSSCheatSheet](https://htmlcheatsheet.com/css/) - Sensory overload CSS Cheatsheet
+- [HTMLCheatSheet](https://htmlcheatsheet.com/) 
+- [CSSCheatSheet](https://htmlcheatsheet.com/css/)
 
 ## Learning Games - CSS
-- [Flexbox Froggy](https://flexboxfroggy.com/) - Manipulate frogs in a pond of lilypads using flexbox, to learn the flexboxing.
-- [CSSGridGarden](https://cssgridgarden.com/) - Similar to Flexbox Froggy but with a garden and to learn the gridding.
+- [Flexbox Froggy](https://flexboxfroggy.com/) 
+- [CSSGridGarden](https://cssgridgarden.com/)
 
 ## Learning Games - .js
 - [Elevator Saga](https://play.elevatorsaga.com/)
@@ -36,10 +34,10 @@ These are a mix of front end and back end, pick and choose based on personal tas
 - [SQLbolt](https://sqlbolt.com/)
 
 ## Online Tutorials - Assorted
-- [Codecademy](https://www.codecademy.com/) - Step by step interactive programming lessons.
-- [Freecodecamp](https://www.freecodecamp.org/learn) - Step by step interactive programming lessons.
-- [HTML Dog](https://www.htmldog.com/) - HTML, CSS, and JavaScript tutorials.
-- [Odin Project](https://www.theodinproject.com/) - Self directed learning material.
+- [Codecademy](https://www.codecademy.com/) 
+- [Freecodecamp](https://www.freecodecamp.org/learn) 
+- [HTML Dog](https://www.htmldog.com/) 
+- [Odin Project](https://www.theodinproject.com/) 
 
 ## Online Free Courses - YouTube
 - [PHP](https://www.youtube.com/watch?v=m52ljs78S24&list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih)
