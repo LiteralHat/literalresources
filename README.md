@@ -1,15 +1,13 @@
 # WEB DEVELOPMENT RESOURCES
-just stuff ive used
+Stuff I've used and collected over time
 
-## Templates
 - [HTML5 boilerplate](https://github.com/h5bp/html5-boilerplate)
-
-## Versioning Control 
 - [Git Basics](https://rogerdudler.github.io/git-guide/) 
+- [HTML5-editor.net]( https://html5-editor.net/)
+- [Squoosh](https://squoosh.app/)
 
-## Editors
-- [HTML5-editor.net]( https://html5-editor.net/) 
-    
+
+- [CSS Backgruond Pattern Generator](https://10015.io/tools/css-background-pattern-generator)
 ## Cheatsheets 
 - [HTMLCheatSheet](https://htmlcheatsheet.com/) 
 - [CSSCheatSheet](https://htmlcheatsheet.com/css/)
